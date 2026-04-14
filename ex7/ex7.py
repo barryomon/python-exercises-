@@ -13,3 +13,9 @@ for line in open(fname):
             
 words.sort()        
 print(words) 
+
+
+
+Details = {"name”: “jason”, “email” : “bb@gmail.com”}
+
+print(Details[‘name’])
